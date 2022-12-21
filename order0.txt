@@ -1,0 +1,1 @@
+TableOrder{customer=Customer{firstName='1', secondName='12', age=3, address=Address{cityName='null', zipCode=0, streetName='null', buildingNumber=0, buildingLetter= , apartmentNumber=0}}, size=0, items=[MenuItem{cost=990, name='Кокосовый латте', description='Кокосовый латте с кокосовым молоком'}, null, null, null, null, null, null, null, null, null]}
